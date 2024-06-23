@@ -19,5 +19,5 @@ GUI Library: Tkinter
 Database Management: MySQL Workbench
 
 **Screenshot** <br>
-![Screenshot](images/SS-1.png)
+![SS-1](images/SS-1.png)
 
