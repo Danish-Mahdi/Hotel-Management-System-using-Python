@@ -10,10 +10,14 @@ Room Registration: Add and manage room details.
 Details: View details of customers, rooms, and bookings.
 Report Generation: Generate reports for occupancy, revenue, and other metrics.
 
-**Workflow:** <br>
-
+**Flowchart** <br>
+![flowchart](images/flowchart.png)
 
 **Technologies Used:** <br>
 Programming Language: Python
 GUI Library: Tkinter
 Database Management: MySQL Workbench
+
+**Screenshot:** <br>
+![SS](images/SS-1.png)
+
