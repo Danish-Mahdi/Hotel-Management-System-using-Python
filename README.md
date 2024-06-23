@@ -18,6 +18,6 @@ Programming Language: Python
 GUI Library: Tkinter
 Database Management: MySQL Workbench
 
-**Screenshot:** <br>
-![SS](images/SS-1.png)
+**Screenshot** <br>
+![Screenshot](images/SS-1.png)
 
